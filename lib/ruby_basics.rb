@@ -14,7 +14,7 @@ def greeting(argu, args)
 
 end
 
-def return_a_value(phrase)
+def return_a_value(phrase = "Nice")
   return phrase
 end
 
